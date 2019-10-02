@@ -1,1 +1,11 @@
-.s{}
+.nav-logo-height   {
+    height: 80px;
+    width: auto;
+}
+.nav-link   {
+    font-size: 1.5rem;
+}
+
+.bg-blue {
+    background-color: lightblue;
+}
