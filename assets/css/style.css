@@ -13,3 +13,8 @@
 .bg-pink {
     background-color: pink;
 }
+
+main {
+    background: url(../images/Hero.jpg);
+    background-size: cover bottom no-repeat;
+}
